@@ -1,0 +1,40 @@
+p {
+color: red;
+background: white;
+}
+h2,p {
+
+color: red;
+text-align: center;
+border: 10px solid rgb(55, 120, 170);
+cursor: pointer;
+}
+
+
+body{
+
+background-image: url(OIP.jpeg);
+background-size: cover;
+
+}
+li {
+list-style: none;
+display: inline;
+
+}
+.webtext{
+ color:green;
+
+
+}
+.active{
+
+	color: blue;
+}
+
+#div1{
+	background: rgba(0, 0, 0, 1.0);
+
+
+
+}
